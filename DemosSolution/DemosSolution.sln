@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublisherSubscriberPattern"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubSubscriberPatternOthersDemo", "PubSubscriberPatternOthersDemo\PubSubscriberPatternOthersDemo.csproj", "{50C6D126-0697-4828-83F9-D2A61AB7AB0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform多线程控件控制", "Winform多线程控件控制\Winform多线程控件控制.csproj", "{787F26A5-F84B-49DD-A54A-058F3860391C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50C6D126-0697-4828-83F9-D2A61AB7AB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50C6D126-0697-4828-83F9-D2A61AB7AB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50C6D126-0697-4828-83F9-D2A61AB7AB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787F26A5-F84B-49DD-A54A-058F3860391C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787F26A5-F84B-49DD-A54A-058F3860391C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787F26A5-F84B-49DD-A54A-058F3860391C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787F26A5-F84B-49DD-A54A-058F3860391C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
